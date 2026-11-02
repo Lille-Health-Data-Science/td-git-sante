@@ -4,7 +4,7 @@ FICHIER = "data/patients_synthetiques.csv"
 
 
 def test_nombre_de_patients():
-    assert len(charger_patients(FICHIER)) == 40
+    assert len(charger_patients(FICHIER)) == 45
 
 
 def test_premier_patient():
