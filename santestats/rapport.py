@@ -7,7 +7,7 @@ from .chargement import Patient, charger_patients
 from .glycemie import convertir_en_mg_dl
 from .imc import calculer_imc, classer_imc
 
-TITRE = "Rapport santestats"
+TITRE = "santestats cohort report"
 
 
 def construire_rapport(patients: list[Patient]) -> str:
