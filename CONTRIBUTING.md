@@ -21,7 +21,7 @@ git switch -c 1-conversion-g-l
 Un commit = un changement cohérent. Le message suit la convention *Conventional Commits* :
 
 ```
-<type>: <description à l'impératif, en minuscules>
+<type>: <description à l'infinitif, en minuscules>
 ```
 
 | Type | Usage |
