@@ -19,7 +19,7 @@ Le code est volontairement court : l'objet du TD n'est pas Python, c'est **Git e
 Il faut Git (2.40 ou plus récent) et Python 3.10 ou plus récent.
 
 ```bash
-git clone https://github.com/<compte-de-l-enseignant>/td-git-sante.git
+git clone https://github.com/Lille-Health-Data-Science/td-git-sante.git
 cd td-git-sante
 python -m venv .venv
 source .venv/bin/activate        # Windows : .venv\Scripts\activate
