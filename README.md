@@ -5,6 +5,7 @@ calcul et classification de l'IMC, harmonisation des glycémies en mg/dL, rappor
 Le code est volontairement court : l'objet du TD n'est pas Python, c'est **Git et le travail en équipe**.
 
 > **Consignes du TD : [`SUJET.md`](SUJET.md).** Commencez par la partie 0.
+> Support du cours magistral : [`cours/CM-Git-GitHub.pdf`](cours/CM-Git-GitHub.pdf).
 
 > Aucune donnée de ce dépôt ne concerne une personne réelle. Ne déposez jamais de données réelles
 > de patients dans un dépôt Git, même privé (voir `CONTRIBUTING.md`).
