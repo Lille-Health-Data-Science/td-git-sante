@@ -4,6 +4,8 @@ Petit projet Python qui analyse une cohorte de **40 patients entièrement synth�
 calcul et classification de l'IMC, harmonisation des glycémies en mg/dL, rapport en ligne de commande.
 Le code est volontairement court : l'objet du TD n'est pas Python, c'est **Git et le travail en équipe**.
 
+> **Consignes du TD : [`SUJET.md`](SUJET.md).** Commencez par la partie 0.
+
 > Aucune donnée de ce dépôt ne concerne une personne réelle. Ne déposez jamais de données réelles
 > de patients dans un dépôt Git, même privé (voir `CONTRIBUTING.md`).
 
